@@ -4,7 +4,7 @@ import PackageDescription
 let package = Package(
     name: "Kingfisher",
     platforms: [
-        .iOS(.v13),
+        .iOS(.v15),
         .macOS(.v10_15),
         .tvOS(.v13),
         .watchOS(.v6),
